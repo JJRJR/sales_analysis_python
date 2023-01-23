@@ -15,9 +15,20 @@ December is the best month of sales. December sales: $4,613,443
 San Francisco  $8,262,203.91
 
 
-Q: What time should we display adverstisement to maximize likelihood of customer's buying product?
-Q: What products are most often sold together?
-Q: What product sold the most? Why do you think it sold the most?
+## What time should we display adverstisement to maximize likelihood of customer's buying product?
+
+image.png
+
+Peak sales time is at 11am and again at 7pm. 
+
+## What products are most often sold together?
+
+iPhone and Lightning Charging Cable 1005
+
+## What product sold the most? Why do you think it sold the most?
+
+image.png
+
 
 How Much Probability?
 How much probability for next people will ordered USB-C Charging Cable?
